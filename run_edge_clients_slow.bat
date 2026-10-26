@@ -1,0 +1,1 @@
+start "E0-C2" cmd /k "python hierarchical\client_edge.py --edge-id 0 --local-id 2 --num-edges 2 --clients-per-edge 3 --server 127.0.0.1:8090 --delay 3"
